@@ -6,13 +6,13 @@
 
 // Wifi
 
-const char* WIFI_SSID = "SpaDuWach";
-const char* WIFI_PASSWORD = "spotty2017";
+//const char* WIFI_SSID = "SpaDuWach";
+//const char* WIFI_PASSWORD = "spotty2017";
 
 // Tg
 
-#define BOT_TOKEN "8886193988:AAGWXPPFtD5RCBXr-3_3KygOHM0i9ibT1Zo"
-#define CHAT_ID "8019398181"
+//#define BOT_TOKEN "8886193988:AAGWXPPFtD5RCBXr-3_3KygOHM0i9ibT1Zo"
+//#define CHAT_ID "8019398181"
 
 // Pins
 
